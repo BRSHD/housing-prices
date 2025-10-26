@@ -1,8 +1,15 @@
+![Python](https://img.shields.io/badge/python-3.11%2B-blue)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
 # California Housing Prices
 
 ![California Housing Prices Dashboard](images/dashboard.png)
 
-Модель машинного обучения(Gradient Boosting), помогающая риелторам, инвесторам и банкам в оценке недвижимости в штате Калифорния. 
+**ML-сервис** для автоматической оценки стоимости недвижимости в Калифорнии с точностью **81%**, помогающий риелторам, инвесторам и банкам в оценке недвижимости в штате Калифорния. 
+
 Проект включает визуализацию данных, обучение модели и создание веб-интерфейса с помощью FastAPI и Streamlit для взаимодействия c данными.
 
 ## Локальный запуск
